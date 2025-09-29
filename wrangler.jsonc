@@ -6,9 +6,9 @@
     "binding": "ASSETS",
     "directory": "dist/public"
   },
-  "compatibility_date": "2025-09-29",
+  "compatibility_date": "2025-09-28",
   "compatibility_flags": [
-    "nodejs_compat_v2"
+    "nodejs_compat"
   ],
   "keep_vars": true,
   "upload_source_maps": true,
